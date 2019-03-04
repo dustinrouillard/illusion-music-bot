@@ -1,10 +1,10 @@
 # Illusion Music Bot
 
-## Created by Tetrabyte#4866
+## Created by Tetrabyte#0001
 
 ---
 
-### If you need help you can DM Tetrabyte#4866 on Discord or submit an issue with what you're having trouble with
+### If you need help you can DM Tetrabyte#0001 on Discord or submit an issue with what you're having trouble with
 
 ---
 
